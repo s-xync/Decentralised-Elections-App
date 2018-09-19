@@ -8,4 +8,8 @@ Other than truffle, this tutorial also teaches how to use Mocha and Chai to do u
 
 I highly recommend everyone checking out the tutorial mentioned above.  
 
+**EDIT 1:** Addition to the previously mentioned videos, [this](https://www.youtube.com/watch?v=ADoRVVOSpI8) 22min video tutorial explains the process of making our Dapp, a fully decentralised Dapp by deploying the client side assets on IPFS(https://ipfs.io/). The _src_ directory and _build_ directory are added to the ipfs swarm and then published. After this, a client can directly access the Election app through IPFS instead of requesting a central server which means, no single point failures.  
+
+YAY! Now I know how to use IPFS.  
+
 Thanks!
